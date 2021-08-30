@@ -25,9 +25,9 @@
 ```bash
 # GitHub520 Host Start
 140.82.112.26                 alive.github.com
-140.82.113.26                 live.github.com
+140.82.112.26                 live.github.com
 185.199.108.154               github.githubassets.com
-140.82.113.21                 central.github.com
+140.82.114.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
@@ -35,7 +35,7 @@
 199.232.69.194                github.global.ssl.fastly.net
 140.82.112.4                  gist.github.com
 185.199.108.153               github.io
-140.82.114.4                  github.com
+140.82.112.4                  github.com
 140.82.112.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
@@ -48,9 +48,9 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.113.10                 codeload.github.com
-52.217.80.92                  github-cloud.s3.amazonaws.com
+52.217.138.241                github-cloud.s3.amazonaws.com
 52.217.204.105                github-com.s3.amazonaws.com
-52.216.30.76                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.96.60                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.141.60                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.91.76                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
@@ -58,13 +58,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-08-30T20:21:12+08:00
+# Update time: 2021-08-30T22:12:36+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-08-30T20:21:12+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-08-30T22:12:36+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
