@@ -32,8 +32,8 @@
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
-199.232.5.194                 github.global.ssl.fastly.net
-140.82.112.3                  gist.github.com
+199.232.69.194                github.global.ssl.fastly.net
+140.82.114.3                  gist.github.com
 185.199.108.153               github.io
 140.82.114.4                  github.com
 140.82.114.5                  api.github.com
@@ -58,13 +58,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-09-25T06:13:06+08:00
+# Update time: 2021-09-25T08:44:40+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-09-25T06:13:06+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-09-25T08:44:40+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
