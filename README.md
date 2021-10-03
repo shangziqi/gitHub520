@@ -24,7 +24,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.112.26                 alive.github.com
+140.82.114.26                 alive.github.com
 140.82.112.26                 live.github.com
 185.199.108.154               github.githubassets.com
 140.82.113.21                 central.github.com
@@ -33,10 +33,10 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
+140.82.113.4                  gist.github.com
 185.199.108.153               github.io
-140.82.112.4                  github.com
-140.82.112.5                  api.github.com
+140.82.113.3                  github.com
+140.82.114.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -48,7 +48,7 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.114.9                  codeload.github.com
-52.217.49.20                  github-cloud.s3.amazonaws.com
+52.217.138.25                 github-cloud.s3.amazonaws.com
 52.217.199.105                github-com.s3.amazonaws.com
 52.216.112.99                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.99.148                 github-production-user-asset-6210df.s3.amazonaws.com
@@ -58,13 +58,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-10-04T00:19:50+08:00
+# Update time: 2021-10-04T02:14:56+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-10-04T00:19:50+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-10-04T02:14:56+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
