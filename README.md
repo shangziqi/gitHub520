@@ -24,17 +24,16 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-34.204.181.194                avatars0.githubusercontent.com
-140.82.113.3                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 
 
-# Update time: 2022-11-12T04:18:26+08:00
+# Update time: 2022-11-12T06:18:00+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-12T04:18:26+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-12T06:18:00+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
