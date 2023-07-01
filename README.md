@@ -35,7 +35,6 @@
 140.82.112.4                  github.com
 140.82.112.4                  api.github.com
 140.82.112.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -44,13 +43,13 @@
 140.82.112.17                 github.community
 
 
-# Update time: 2023-07-01T16:17:16+08:00
+# Update time: 2023-07-01T18:15:58+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-07-01T16:17:16+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-07-01T18:15:58+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
