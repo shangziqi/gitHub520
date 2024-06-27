@@ -58,13 +58,13 @@
 0.0.1.1                       media.githubusercontent.com
 
 
-# Update time: 2024-06-27T12:18:53+08:00
+# Update time: 2024-06-27T14:19:39+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-06-27T12:18:53+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-06-27T14:19:39+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
